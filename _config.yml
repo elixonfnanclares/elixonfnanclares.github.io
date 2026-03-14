@@ -14,3 +14,7 @@ author:
       url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Mda6WCMAAAAJ&citation_for_view=Mda6WCMAAAAJ:u-x6o8ySG0sC
     - label: SSRN
       url: https://ssrn.com/author=XXXXX
+footer:
+  links:
+    - label: "Licencia del sitio"
+      url: https://creativecommons.org/licenses/by-nc/4.0/
