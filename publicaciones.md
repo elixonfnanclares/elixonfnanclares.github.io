@@ -6,9 +6,9 @@ title: Publicaciones
 ## Publicaciones
 
 ### Nanclares Barbosa, E. F. (2026)
-**Método para la priorización de intervenciones públicas mediante el IPIP**  
+**Sinergia: Agenda Nacional de Evaluaciones de Colombia. Definición de criterios de priorización de Intervenciones Públicas para Evaluación**
 Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.XXXXXXX  
+DOI: https://doi.org/10.5281/zenodo.19011118  
 Licencia: CC BY-NC-ND 4.0
 
 Enlaces:
