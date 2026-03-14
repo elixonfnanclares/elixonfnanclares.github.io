@@ -13,5 +13,5 @@ Licencia: CC BY-NC-ND 4.0
 
 Enlaces:
 - Zenodo (versión oficial)
-- Google Scholar
-- SSRN
+- Google Scholar 
+- SSRN https://ssrn.com/author=10724996
