@@ -20,9 +20,9 @@ Actualmente desarrollo y publico **documentos técnicos con DOI**, disponibles e
 
 ### Publicaciones
 Mis publicaciones técnicas pueden consultarse en:
-- Zenodo (versiones oficiales con DOI)
-- Google Scholar
-- SSRN
+- [Zenodo (versiones oficiales con DOI)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Nanclares%20Barbosa%2C%20Elixon%20Fredy%22&l=list&p=1&s=10&sort=bestmatch)
+- [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Mda6WCMAAAAJ&citation_for_view=Mda6WCMAAAAJ:u-x6o8ySG0sC)
+- [SSRN](https://ssrn.com/author=10724996)
 
 ### Publicaciones destacadas
 - **Sinergia: Agenda Nacional de Evaluaciones de Colombia. Definición de criterios de priorización de Intervenciones Públicas para Evaluación**  
