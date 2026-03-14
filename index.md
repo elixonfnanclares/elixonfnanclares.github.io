@@ -11,10 +11,18 @@ Actualmente desarrollo y publico **documentos técnicos con DOI**, disponibles e
 
 ### Líneas de trabajo
 - Evaluación de políticas públicas  
-- Economía aplicada  
-- Priorización de intervenciones  
+- Economía aplicada al sector público
+- Priorización y selección de intervenciones públicas
 - Sistemas de evaluación y gestión de resultados  
 - Objetivos de Desarrollo Sostenible (ODS)
+- Enfoques participativos
+- Enfoque Footprint
+
+### Publicaciones
+Mis publicaciones técnicas pueden consultarse en:
+- Zenodo (versiones oficiales con DOI)
+- Google Scholar
+- SSRN
 
 ### Publicaciones destacadas
 - **Sinergia: Agenda Nacional de Evaluaciones de Colombia. Definición de criterios de priorización de Intervenciones Públicas para Evaluación**  
