@@ -5,7 +5,7 @@ title: Perfil profesional
 
 ## Elixon Fredy Nanclares Barbosa
 
-Economista con experiencia en evaluación de políticas públicas, análisis técnico y desarrollo de metodologías aplicadas para la toma de decisiones. Mi trabajo se enfoca en el diseño, implementación y análisis de evaluaciones, así como en la generación de evidencia para fortalecer la gestión pública.
+Economista con más de diez años de experiencia en evaluación de políticas públicas y análisis técnico aplicado al sector público. Su trabajo se ha centrado en el diseño y fortalecimiento de metodologías de evaluación, priorización de intervenciones públicas y uso de evidencia para la toma de decisiones, incluyendo enfoques como los Objetivos de Desarrollo Sostenible (ODS), participativo y footprint.
 
 ### Líneas de trabajo
 - Evaluación de políticas públicas  
