@@ -7,6 +7,8 @@ title: Perfil profesional
 
 Economista con más de diez años de experiencia en **evaluación de políticas públicas** y análisis técnico aplicado al sector público. Su trabajo se ha centrado en el **diseño y fortalecimiento de metodologías de evaluación**, **priorización de intervenciones públicas** y **uso de evidencia** para la toma de decisiones, incluyendo enfoques como los **Objetivos de Desarrollo Sostenible (ODS)**, **participativo** y **footprint**.
 
+Actualmente desarrollo y publico **documentos técnicos con DOI**, disponibles en repositorios académicos de acceso abierto como **Zenodo**, con difusión en **Google Scholar** y **SSRN**.
+
 ### Líneas de trabajo
 - Evaluación de políticas públicas  
 - Economía aplicada  
