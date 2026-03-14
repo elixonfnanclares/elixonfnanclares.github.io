@@ -15,5 +15,5 @@ Economista con experiencia en evaluación de políticas públicas, análisis té
 - Objetivos de Desarrollo Sostenible (ODS)
 
 ### Publicaciones destacadas
-- **Método IPIP para la priorización de intervenciones públicas**  
-  DOI: https://doi.org/10.5281/zenodo.XXXXXXX
+- **Sinergia: Agenda Nacional de Evaluaciones de Colombia. Definición de criterios de priorización de Intervenciones Públicas para Evaluación**  
+  DOI: https://doi.org/10.5281/zenodo.19011118
