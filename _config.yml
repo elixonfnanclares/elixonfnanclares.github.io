@@ -1,5 +1,5 @@
 title: Elixon Fredy Nanclares Barbosa
-description: Economista | Evaluación de políticas públicas | Economía aplicada
+description: Economista especializado en evaluación de políticas públicas, economía aplicada y priorización de intervenciones públicas. Producción técnica con DOI.
 theme: minimal-mistakes-jekyll
 url: https://elixonfnanclares.github.io
 
@@ -18,3 +18,17 @@ footer:
   links:
     - label: "Licencia del sitio"
       url: https://creativecommons.org/licenses/by-nc/4.0/
+
+
+
+  bio: bio: Economista especializado en evaluación de políticas públicas y economía aplicada, con experiencia en el diseño de metodologías de priorización, sistemas de evaluación y uso de evidencia para la toma de decisiones en el sector público.
+  location: Bogotá D.C., Colombia
+  links:
+    - label: ORCID
+      url: https://orcid.org/0000-0002-XXXX-XXXX
+    - label: Google Scholar
+      url: https://scholar.google.com/citations?user=XXXXXXXX
+    - label: SSRN
+      url: https://ssrn.com/author=XXXXXXXX
+    - label: Zenodo
+      url: https://zenodo.org/search?q=Nanclares%20Barbosa
